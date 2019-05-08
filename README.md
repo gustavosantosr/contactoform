@@ -62,4 +62,4 @@ appsetings.json
                     builder1 => builder1.WithOrigins("http://localhost:4200"));
             });
 
-
+Script Dump mysql de la base de datos contactos en el archivo contactos.sql
