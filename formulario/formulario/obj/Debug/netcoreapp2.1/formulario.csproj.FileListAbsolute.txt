@@ -1,0 +1,14 @@
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.csprojAssemblyReference.cache
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.csproj.CoreCompileInputs.cache
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.RazorAssemblyInfo.cache
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.RazorAssemblyInfo.cs
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.AssemblyInfoInputs.cache
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.AssemblyInfo.cs
+/Users/gustavosantos/Projects/formulario/formulario/bin/Debug/netcoreapp2.1/formulario.deps.json
+/Users/gustavosantos/Projects/formulario/formulario/bin/Debug/netcoreapp2.1/formulario.runtimeconfig.json
+/Users/gustavosantos/Projects/formulario/formulario/bin/Debug/netcoreapp2.1/formulario.runtimeconfig.dev.json
+/Users/gustavosantos/Projects/formulario/formulario/bin/Debug/netcoreapp2.1/formulario.dll
+/Users/gustavosantos/Projects/formulario/formulario/bin/Debug/netcoreapp2.1/formulario.pdb
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.RazorTargetAssemblyInfo.cache
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.dll
+/Users/gustavosantos/Projects/formulario/formulario/obj/Debug/netcoreapp2.1/formulario.pdb
